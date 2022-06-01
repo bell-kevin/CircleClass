@@ -1,9 +1,10 @@
 # CircleClass
-Create a project that has a Circle class. The Circle class should contain:      
-One instance variable – radius     
-A method named setRadius that assigns the passed-in radius value to the radius instance variable     
-A method named initialize that prompts the user for a radius value and then assigns the entered value to the radius instance variable. (Note that the method will prompt the user, not the driver class.)     
-A method named printCircleData that uses the circle’s radius to calculate the circle’s diameter, circumference, and area and print the results. Use the Java API constant Math.PI for the value of pi. Use local variables to store the diameter, circumference, and area. Print the circle’s radius, diameter, circumference, and area.  
+Create a project that has a Circle class. The Circle class should contain:  
+
+-One instance variable – radius     
+-A method named setRadius that assigns the passed-in radius value to the radius instance variable     
+-A method named initialize that prompts the user for a radius value and then assigns the entered value to the radius instance variable. (Note that the method will prompt the user, not the driver class.)     
+-A method named printCircleData that uses the circle’s radius to calculate the circle’s diameter, circumference, and area and print the results. Use the Java API constant Math.PI for the value of pi. Use local variables to store the diameter, circumference, and area. Print the circle’s radius, diameter, circumference, and area.  
 
 Create a Driver class (the main class) that tests all of the variables and methods of the Circle class. In that driver class, create a circle object and name it “spot”. Initialize it, print the circle data, then set the radius to a different specific value, and print the circle data again.  
 
